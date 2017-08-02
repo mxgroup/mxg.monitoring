@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Mxg.Monitoring</id>
+    <version>0.0.1</version>
+    <title>Mxg Monitoring</title>
+    <authors>shnipov</authors>
+    <owners>mxgroup</owners>
+    <licenseUrl>https://github.com/mxgroup/mxg.monitoring</licenseUrl>
+    <projectUrl>https://github.com/mxgroup/mxg.monitoring</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Mxg monitoring library</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags></tags>
+  </metadata>
+</package>
